@@ -2,7 +2,7 @@
 
 ## Link to my LinkedIn profile:
 
-[Alexandre C. Goular](https://www.linkedin.com/in/alexandrecgoulart/)
+[Alexandre C. Goulart](https://www.linkedin.com/in/alexandrecgoulart/)
 
 ## Welcome to GitHub Pages
 
