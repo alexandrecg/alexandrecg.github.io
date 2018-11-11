@@ -1,5 +1,9 @@
 # Opa!
 
+##Link to my LinkedIn profile:
+
+[Alexandre C. Goular](https://www.linkedin.com/in/alexandrecgoulart/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alexandrecg/alexandrecg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
