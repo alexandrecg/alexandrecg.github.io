@@ -1,6 +1,6 @@
 # Opa!
 
-##Link to my LinkedIn profile:
+## Link to my LinkedIn profile:
 
 [Alexandre C. Goular](https://www.linkedin.com/in/alexandrecgoulart/)
 
