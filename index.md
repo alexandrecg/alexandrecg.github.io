@@ -1,8 +1,8 @@
 Welcome to my personal page here, inside GitHub!
 
-This space is still under construction, but I hope it will feature some cool content soon. :)
+This space is dedicated to share my experiences with engineering projects and to show some of my background as an aerospace engineer.
 
-
+This space is still under construction, but I hope it will feature more cool content soon. :)
 
 ## Link to my LinkedIn profile:
 
