@@ -5,13 +5,19 @@ This space is dedicated to share my experiences with engineering projects and to
 ![image](https://user-images.githubusercontent.com/7193739/129830912-16cf06bf-1676-4658-970c-b85091c32563.png)
 
 
-This space is still under construction, but I hope it will feature more cool content soon. :)
+This space is still under construction, but I hope it will feature some cool content soon. :)
 
 ## Link to my LinkedIn profile:
+
+![image](https://user-images.githubusercontent.com/7193739/129831351-62dd616b-2b44-497a-b643-8ccf6f96b9ff.png)
 
 [Alexandre C. Goulart](https://www.linkedin.com/in/alexandrecgoulart/)
 
 
 
+## Link to my ResearchGate profile:
 
+![image](https://user-images.githubusercontent.com/7193739/129831228-449dee0b-7cf8-4f51-9c97-64098238f533.png)
+
+[Alexandre C. Goulart](https://www.researchgate.net/profile/Alexandre-Goulart-3)
 
