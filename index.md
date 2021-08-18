@@ -9,7 +9,7 @@ This space is still under construction, but I hope it will feature some cool con
 
 ## Link to my LinkedIn profile:
 
-![image](https://user-images.githubusercontent.com/7193739/129831351-62dd616b-2b44-497a-b643-8ccf6f96b9ff.png)
+![image](https://user-images.githubusercontent.com/7193739/129831351-62dd616b-2b44-497a-b643-8ccf6f96b9ff.png =100x100)
 
 [Alexandre C. Goulart](https://www.linkedin.com/in/alexandrecgoulart/)
 
@@ -17,7 +17,7 @@ This space is still under construction, but I hope it will feature some cool con
 
 ## Link to my ResearchGate profile:
 
-![image](https://user-images.githubusercontent.com/7193739/129831228-449dee0b-7cf8-4f51-9c97-64098238f533.png)
+![image](https://user-images.githubusercontent.com/7193739/129831228-449dee0b-7cf8-4f51-9c97-64098238f533.png = 100x100)
 
 [Alexandre C. Goulart](https://www.researchgate.net/profile/Alexandre-Goulart-3)
 
